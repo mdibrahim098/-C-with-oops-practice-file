@@ -1,0 +1,7 @@
+E:\Desktop\C#\BookPractice3\BookPractice3\bin\Debug\BookPractice3.exe.config
+E:\Desktop\C#\BookPractice3\BookPractice3\bin\Debug\BookPractice3.exe
+E:\Desktop\C#\BookPractice3\BookPractice3\bin\Debug\BookPractice3.pdb
+E:\Desktop\C#\BookPractice3\BookPractice3\obj\Debug\BookPractice3.csproj.AssemblyReference.cache
+E:\Desktop\C#\BookPractice3\BookPractice3\obj\Debug\BookPractice3.csproj.CoreCompileInputs.cache
+E:\Desktop\C#\BookPractice3\BookPractice3\obj\Debug\BookPractice3.exe
+E:\Desktop\C#\BookPractice3\BookPractice3\obj\Debug\BookPractice3.pdb
